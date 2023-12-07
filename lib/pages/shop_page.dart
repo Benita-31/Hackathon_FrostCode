@@ -17,7 +17,7 @@ class _ShopPageState extends State<ShopPage> {
       child: Padding(
         padding: const EdgeInsets.all(25.0),
         child: Column(
-        children: [const Text("How would you like your coffee?", 
+        children: [const Text("Currently Open Schemes", 
         style: TextStyle(fontSize: 20),),
         const SizedBox(height: 25),
 
@@ -34,7 +34,7 @@ class _ShopPageState extends State<ShopPage> {
          ],
         ),
       ),
-    ),
+     ),
     );
   }
 }

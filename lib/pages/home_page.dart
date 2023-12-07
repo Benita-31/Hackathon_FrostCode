@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_hackathon/components/bottom_nav_bar.dart';
+import 'package:flutter_hackathon/models/components/bottom_nav_bar.dart';
 import 'package:flutter_hackathon/const.dart';
 import 'cart_page.dart';
 import 'shop_page.dart';

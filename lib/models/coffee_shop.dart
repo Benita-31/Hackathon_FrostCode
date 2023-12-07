@@ -5,23 +5,23 @@ class CoffeeShop extends ChangeNotifier
 {
   final List<Coffee> _shop = [
     Coffee(
-    name: 'Long Black' ,
-    price: "4.10", 
+    name: 'Scheme 1' ,
+    price: "", 
     imagePath: "lib/images/black.png",),
 
     Coffee(
-    name: 'Latte' ,
-    price: "4.20", 
+    name: 'Scheme 2' ,
+    price: "", 
     imagePath: "lib/images/latte.png",),
 
     Coffee(
-    name: 'Espresso Shot' ,
-    price: "3.50", 
+    name: 'Scheme 3' ,
+    price: "", 
     imagePath: "lib/images/espresso.png",),
 
     Coffee(
-    name: 'Iced Coffee' ,
-    price: "4.40", 
+    name: 'Scheme 4' ,
+    price: "", 
     imagePath: "lib/images/iced_coffee.png",),
   ];
 

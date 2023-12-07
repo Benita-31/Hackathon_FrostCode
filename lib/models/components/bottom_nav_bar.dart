@@ -19,11 +19,9 @@ class MyBottomNavBar extends StatelessWidget {
       tabActiveBorder: Border.all(color: Colors.white),
       tabs: const [
       GButton(icon: Icons.home,
-      text:'shop'
+      text:'HOME'
       ),
-       GButton(icon: Icons.shopping_bag_outlined,
-      text:'cart'
-      )
+       
     ]
       )
     );
